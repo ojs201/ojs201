@@ -1,5 +1,6 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90)](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome-nl-jaesuk's%20github%20profile&textBg=false&fontSize=50&fontAlign=50&fontAlignY=20)
+
 ![js](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 ![js](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![js](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -15,6 +16,14 @@
 ![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![js](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![js](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
+
+:school:Education:school:
+건국대학교 스마트ICT융합공학과 졸업(예정)
+AWS Korea Cloud School
+
+
+
+
 
 
 
