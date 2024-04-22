@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome-nl-Jaesuk's%20github%20profile&fontAlignY=15&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome-nl-Omega's%20github%20profile&fontAlignY=15&fontSize=60)
 
 
 
