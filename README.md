@@ -18,8 +18,8 @@
 ![js](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![js](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 
-:school:Education:school:
-건국대학교 스마트ICT융합공학과 졸업(예정)
+:school:Education
+건국대학교 스마트ICT융합공학과 졸업(예정)-nl-
 AWS Korea Cloud School
 
 
