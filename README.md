@@ -19,7 +19,7 @@
 ![js](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 
 :school:Education
-건국대학교 스마트ICT융합공학과 졸업(예정)-nl-
+건국대학교 스마트ICT융합공학과 졸업(예정)   
 AWS Korea Cloud School
 
 
