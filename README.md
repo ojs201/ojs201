@@ -6,12 +6,14 @@
 
 :school:Education
 <br/>
+<br/>
 건국대학교 스마트ICT융합공학과 졸업(예정)   
 AWS Korea Cloud School   
 <br/>
 <br/>
 <br/>
 :computer:Skill
+<br/>
 <br/>
 ![js](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 ![js](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
