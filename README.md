@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header]([https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome-nl-Jaesuk's%20github%20profile&fontAlignY=15&fontSize=60))
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome-nl-Jaesuk's%20github%20profile&fontAlignY=15&fontSize=60)
 
 
 ![js](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
