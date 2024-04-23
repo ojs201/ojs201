@@ -12,9 +12,23 @@ AWS Korea Cloud School 5기
 <br/>
 <br/>
 <br/>
+:ledger:Certificated
+<br/>
+<br/>
+---
+정보처리기사
+<br/><br/>
+SQLD
+<br/><br/>
+AWS Certified Solutions Architect - Associate(be scheduled)
+<br/><br/>
+Microsoft Office Specialist Powerpoint 2010
+<br/><br/>
+Microsoft Office Specialist Excel 2010
+<br/>
+<br/>
+<br/>
 :computer:Skill
-<br/>
-<br/>
 ---
 ![js](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 <br/>
