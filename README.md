@@ -7,7 +7,7 @@
 <br/>
 <br/>
 ---
-건국대학교 스마트ICT융합공학과 19학번<br/><br/>
+건국대학교 스마트ICT융합공학과 졸업<br/><br/>
 AWS Korea Cloud School 5기
 <br/>
 <br/>
