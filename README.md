@@ -20,8 +20,6 @@ AWS Korea Cloud School 5기
 <br/><br/>
 SQLD
 <br/><br/>
-AWS Certified Solutions Architect - Associate(be scheduled)
-<br/><br/>
 Microsoft Office Specialist Powerpoint 2010
 <br/><br/>
 Microsoft Office Specialist Excel 2010
